@@ -1,0 +1,58 @@
+/*
+{
+    
+}
+*/
+
+div
+{
+    border : 0px solid black;
+}
+
+h1
+{
+    text-align: center;
+}
+
+#titre
+{
+    background-color: #3CA0D0;
+
+}
+
+#corps
+{
+    background-color: #65A6D1;
+    margin-right: 0px;
+}
+
+#nav
+{
+    background-color: #63ADD0;
+    border-style:inset;
+}
+
+footer
+{
+    background-color: #3CA0D0;
+}
+
+main
+{
+    padding-right: 0!important;
+}
+
+a:active
+{
+    color:blueviolet
+}
+
+#res/*touche à la taille du formulaire pour gérer la taille du champs texte*/
+{
+    width: 95%;
+}
+
+#hash/*touche à la taille du formulaire pour gérer la taille du champs texte*/
+{
+    width : 50%;
+}
